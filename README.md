@@ -6,7 +6,7 @@ Create colorful images that are actually text.
 
 Convert any text into a color-coded image and decode it back with ease. A fun and visual way to explore how information can be stored as pixels.
 
-## 🧠 KuerGut - Visual Encoder v1.0
+## 🧠 KuerGut - Visual Encoder v1.2.6
 
 KuerGut is a graphical tool built in Python that lets you encode plain text into an image using RGB values, and decode those images back into the original text. It’s a simple, intuitive tool with real-time preview and editing.
 
