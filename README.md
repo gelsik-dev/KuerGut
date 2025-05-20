@@ -28,4 +28,4 @@ KuerGut is a graphical tool built in Python that lets you encode plain text into
 
 ### Download links
 
-Stable: https://github.com/gelsik-dev/KuerGut/releases/latest
+Stable: https://github.com/gelsik-dev/KuerGut/releases/tag/Beta
