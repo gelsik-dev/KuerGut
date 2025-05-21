@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/gelsik-dev/KuerGut/refs/heads/main/icon.png)
+![Logo](https://raw.githubusercontent.com/gelsik-dev/KuerGut/refs/heads/main/logo-gh.png)
 
 # KuerGut (Visual Encoder)
 
