@@ -219,7 +219,7 @@ title_label.image = title_photo
 title_label.pack(pady=(0, 5))
 tk.Label(
     main_frame,
-    text="Visual encoder by Gelsik © - Version 1.2.6",
+    text="Visual encoder by Gelsik © - Version 1.2.7",
     font=("Segoe UI", 10),
     fg="#cccccc",
     bg="#1e1e1e",
